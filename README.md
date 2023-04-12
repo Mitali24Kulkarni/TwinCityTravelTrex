@@ -1,6 +1,7 @@
 # TwinCityTravelTrex
 
-Introduction
+Introduction:
+
 The Tantalizing Twin City, Hubli-Dharwad is located in the North Karnataka of India. 
 Dharwad as a district consists of five talukas namely Dharwad, Hubli, Kalghatgi, Navalgund 
 and Kundgol. Combining the commercial, industrial hub Hubli and the academic, cultural 
@@ -11,7 +12,8 @@ in heritage, culture, traditions and history! Being home to several educational 
 divine places of worship, eye-catching sceneries it makes its way to a tourists go-to list for a 
 fantastic and a memorable travel tour. 
 
-Problem statement
+Problem statement:
+
 Hubli-Dharwad is recognized worldwide for its delicious dessert Dharwad Pedha. 
 Apparently, it offers much more to the eyes of visitors! There are a plenty undiscovered, 
 unknown venues that often go unnoticed. The Twin City Travel Trex is designed to provide 
@@ -22,7 +24,8 @@ Worship, Sports Arenas, Restaurants, Stay Homes, shopping malls and much more!! 
 includes maps to interested locations from certain areas and also a 360-degree view of some 
 famous spots. Thus, its main aim is to provide easiness in discovering the Twin City, HubliDharwad.
 
-Objectives
+Objectives:
+
 • The main objective of this project is to guide all visitors to the twin city.
 • This website will provide all the basic information needed for visitors like must-do 
 things, stay homes, food corners, spots to visit, maps, and many more.
